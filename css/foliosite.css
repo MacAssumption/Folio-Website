@@ -1,0 +1,156 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	margin: 0;
+}
+
+.header {
+	width: 100vw;
+	height: 38vh;
+	color: #252524;
+	background: #252524;
+	position: 
+		
+}
+
+body {
+	background: #373835;
+	color: #373835
+}
+
+.sidenav {
+	width: 23vw;
+	height: 200vh;
+	color: #252524;
+	background: #252524
+}
+.text {
+	color: #FFFFFF;
+	padding-left: 00px;
+	
+}
+
+.profile1 {
+	position: relative;
+	width: 100px;
+	height: 100px;
+}
+.sidenav a {
+  padding: 5px 5px 5px 38px;
+  text-decoration: none;
+  font-size: 28px;
+  color: #FFFFFF;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav {
+	padding-top:10px;
+	position: absolute;
+}
+
+.special{
+	background-color:#f1d552;
+}
+.blurb {
+	height: 100px;
+	width: 130px;
+	color: white;
+	background-color: #252524;
+	text-align: center;
+	padding-left: 25px;
+	padding-top: 20px;
+}
+.banner {
+	position: absolute;
+	padding-left: 300px;
+	width: 65%		
+}
+.folio{
+	padding-left: 30%;
+	padding-top: 20px;
+}
+.text{
+	padding-left: 115px;
+	
+}
+.profile1 {
+	position: absolute
+}
+.foliopicture1{
+	align-content: center;
+	padding-left: 30%;
+	padding-top: 40px;
+}
+.foliopicture3 {
+	padding-left: 10%;
+}
+.foliopicture2 {
+	padding-left: 10%;
+}
+
+
+.contactp{
+padding-left: 56%;
+height: 150px;
+
+}
+.contacth{
+	color: #FFFFFF;
+	padding-left: 50%;
+}
+.contactl{
+	color: #FFFFFF;
+	padding: 5px 5px 5px 28px;
+	padding-left: 45%;
+	display: block
+}
+.pg1 {
+	
+	margin-left: 300px;
+	margin-bottom: 100px;
+	margin-top: 50px;
+	margin-right: 100px;
+	color: white;
+}
+.pg2{
+	color: white;
+	margin: 10px 300px 100px 300px;
+}
+.link{
+	padding-top: 0px;
+	color: white;
+	margin: 150px 300px 100px 300px;
+}
+.shrink{
+	width: 20%;
+	padding-left: 230px;
+}
+.shrink1{
+	width: 20%;
+	padding-left: 10px;
+}
+.shrink2{
+	width: 20%;
+	padding-left: 10px;
+}
+.sidenavl {
+	width: 23vw;
+	height: 450vh;
+	color: #252524;
+	background: #252524
+}
+.sidenavl a {
+  padding: 5px 5px 5px 38px;
+  text-decoration: none;
+  font-size: 28px;
+  color: #FFFFFF;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenavl {
+	padding-top:10px;
+	position: absolute;
+}
